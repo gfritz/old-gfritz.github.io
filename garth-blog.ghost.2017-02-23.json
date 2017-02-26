@@ -1,0 +1,1124 @@
+{
+    "db": [
+        {
+            "meta": {
+                "exported_on": 1487811949730,
+                "version": "003"
+            },
+            "data": {
+                "posts": [
+                    {
+                        "id": 1,
+                        "uuid": "7dab1db2-528b-45c1-a290-9c83bfb1187b",
+                        "title": "Welcome to Ghost",
+                        "slug": "welcome-to-ghost",
+                        "markdown": "You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at `<your blog URL>/ghost/`. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!\n\n## Getting Started\n\nGhost uses something called Markdown for writing. Essentially, it's a shorthand way to manage your post formatting as you write!\n\nWriting in Markdown is really easy. In the left hand panel of Ghost, you simply write as you normally would. Where appropriate, you can use *shortcuts* to **style** your content. For example, a list:\n\n* Item number one\n* Item number two\n    * A nested item\n* A final item\n\nor with numbers!\n\n1. Remember to buy some milk\n2. Drink the milk\n3. Tweet that I remembered to buy the milk, and drank it\n\n### Links\n\nWant to link to a source? No problem. If you paste in a URL, like http://ghost.org - it'll automatically be linked up. But if you want to customise your anchor text, you can do that too! Here's a link to [the Ghost website](http://ghost.org). Neat.\n\n### What about Images?\n\nImages work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:\n\n![The Ghost Logo](https://ghost.org/images/ghost.png)\n\nNot sure which image you want to use yet? That's ok too. Leave yourself a descriptive placeholder and keep writing. Come back later and drag and drop the image in to upload:\n\n![A bowl of bananas]\n\n\n### Quoting\n\nSometimes a link isn't enough, you want to quote someone on what they've said. It was probably very wisdomous. Is wisdomous a word? Find out in a future release when we introduce spellcheck! For now - it's definitely a word.\n\n> Wisdomous - it's definitely a word.\n\n### Working with Code\n\nGot a streak of geek? We've got you covered there, too. You can write inline `<code>` blocks really easily with back ticks. Want to show off something more comprehensive? 4 spaces of indentation gets you there.\n\n    .awesome-thing {\n        display: block;\n        width: 100%;\n    }\n\n### Ready for a Break? \n\nThrow 3 or more dashes down on any new line and you've got yourself a fancy new divider. Aw yeah.\n\n---\n\n### Advanced Usage\n\nThere's one fantastic secret about Markdown. If you want, you can write plain old HTML and it'll still work! Very flexible.\n\n<input type=\"text\" placeholder=\"I'm an input field!\" />\n\nThat should be enough to get you started. Have fun - and let us know what you think :)",
+                        "html": "<p>You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at <code>&lt;your blog URL&gt;/ghost/</code>. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!</p>\n\n<h2 id=\"gettingstarted\">Getting Started</h2>\n\n<p>Ghost uses something called Markdown for writing. Essentially, it's a shorthand way to manage your post formatting as you write!</p>\n\n<p>Writing in Markdown is really easy. In the left hand panel of Ghost, you simply write as you normally would. Where appropriate, you can use <em>shortcuts</em> to <strong>style</strong> your content. For example, a list:</p>\n\n<ul>\n<li>Item number one</li>\n<li>Item number two\n<ul><li>A nested item</li></ul></li>\n<li>A final item</li>\n</ul>\n\n<p>or with numbers!</p>\n\n<ol>\n<li>Remember to buy some milk  </li>\n<li>Drink the milk  </li>\n<li>Tweet that I remembered to buy the milk, and drank it</li>\n</ol>\n\n<h3 id=\"links\">Links</h3>\n\n<p>Want to link to a source? No problem. If you paste in a URL, like <a href=\"http://ghost.org\">http://ghost.org</a> - it'll automatically be linked up. But if you want to customise your anchor text, you can do that too! Here's a link to <a href=\"http://ghost.org\">the Ghost website</a>. Neat.</p>\n\n<h3 id=\"whataboutimages\">What about Images?</h3>\n\n<p>Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:</p>\n\n<p><img src=\"https://ghost.org/images/ghost.png\" alt=\"The Ghost Logo\" /></p>\n\n<p>Not sure which image you want to use yet? That's ok too. Leave yourself a descriptive placeholder and keep writing. Come back later and drag and drop the image in to upload:</p>\n\n<h3 id=\"quoting\">Quoting</h3>\n\n<p>Sometimes a link isn't enough, you want to quote someone on what they've said. It was probably very wisdomous. Is wisdomous a word? Find out in a future release when we introduce spellcheck! For now - it's definitely a word.</p>\n\n<blockquote>\n  <p>Wisdomous - it's definitely a word.</p>\n</blockquote>\n\n<h3 id=\"workingwithcode\">Working with Code</h3>\n\n<p>Got a streak of geek? We've got you covered there, too. You can write inline <code>&lt;code&gt;</code> blocks really easily with back ticks. Want to show off something more comprehensive? 4 spaces of indentation gets you there.</p>\n\n<pre><code>.awesome-thing {\n    display: block;\n    width: 100%;\n}\n</code></pre>\n\n<h3 id=\"readyforabreak\">Ready for a Break?</h3>\n\n<p>Throw 3 or more dashes down on any new line and you've got yourself a fancy new divider. Aw yeah.</p>\n\n<hr />\n\n<h3 id=\"advancedusage\">Advanced Usage</h3>\n\n<p>There's one fantastic secret about Markdown. If you want, you can write plain old HTML and it'll still work! Very flexible.</p>\n\n<p><input type=\"text\" placeholder=\"I'm an input field!\" /></p>\n\n<p>That should be enough to get you started. Have fun - and let us know what you think :)</p>",
+                        "image": null,
+                        "featured": 0,
+                        "page": 0,
+                        "status": "draft",
+                        "language": "en_US",
+                        "meta_title": null,
+                        "meta_description": null,
+                        "author_id": 1,
+                        "created_at": 1448333085254,
+                        "created_by": 1,
+                        "updated_at": 1448338093810,
+                        "updated_by": 1,
+                        "published_at": 1448333085286,
+                        "published_by": 1
+                    },
+                    {
+                        "id": 2,
+                        "uuid": "f14c81c1-f761-4a85-8c31-fd5946a932db",
+                        "title": "ASP.NET 5 RC1 and .NET Core Are \"Go Live\"",
+                        "slug": "asp-net-5-rc1-and-net-core-are-go-live",
+                        "markdown": "Microsoft keeps going on their Open Source Cross Platform woot train.\n\n[Scott Hanselman has more details.](http://www.hanselman.com/blog/ASPNET5AndNETCoreRC1InContextPlusAllTheConnect2015News.aspx)  Read on for a summary from yours truly.\n\n**Visual Studio Code** (like Sublime Text, Github Atom, etc., not an IDE) is Open Source, and in a new Beta that supports Extensions.  Go support, Yeoman, and Open File in Vim (for your command line friends) are some featured extensions.  It is cross platform too!\n\n**ASP.NET 5 RC1** is the cross platform release candidate for that Microsoft web framework thing that no one uses outside of Windows.   The \"5\" part actually means you can develop, host, and run ASP.NET from Linux and OS X.  It has a \"Go Live\" license which means if you want to deploy it to Production in Linux or OS X, Microsoft will support you.  Documentation is pretty wizard too.  Docs are still under works, but does a wizard ever really stop working?  (Is wizard still a thing?  Yes?  Good.)\n\nIf you absolutely have to do it right now, *it's dangerous to go alone! Take this* : http://get.asp.net/.  The site should detect your OS and tell you how to get ASP.NET.  On my phone, it just said view source.  Maaan, I wanted ASP.NET running off of my Android 6.0 phone.\n\n*How are you natively developing and running .NET bits outside of Windows?! Sorcery?!*\n\nNaw, this thing called **.NET Core** is, you guessed it, the core bits of the .NET framework, excluding things that tie directly to the Windows OS \\**cough\\** WPF \\**cough\\** WinForms.  Not sure anyone outside Windows wants those anyway.  Development of the Core is primarily driven by ASP.NET 5 workloads, but it aims to fulfill the desire for a modular runtime where features and libraries can be cherry picked.  It is the \"If you ask for a banana, you get only a banana and NOT the Gorilla and NOT the rest of the jungle\" kind of thing.  http://docs.asp.net/en/latest/conceptual-overview/dotnetcore.html\n\nThe **.NET Execution Environment (DNX)** is the money.  It feels like being a magician.  \"Hey Rocky, watch me run this Microsoft application in my RedHat\".\n![](/content/images/2015/11/bullwinkle-redhat.png)\n(Okay, I'll stop)\n\nThe DNX is where you pick the .NET bits you want available for your runtime environment on your target platform.  It is the SDK for your application.  The DNX Version Manager (DNVM) allows you to wrangle your many DNX versions and flavors, and you can switch between them a la command line.\nhttp://docs.asp.net/en/latest/dnx/overview.html\n\nWhy would you want to run Microsoft code on Linux?  Maybe that is what your IT staff knows.  Maybe you do not want to have that one Microsoft box in the corner.  The DNX and .NET Core lets you treat Linux as just another place to run your bits.  Well, CentOS and CentOS derivations are not supported yet as of RC1's known issues.\n\nI rip off Scott Hanselman's closing remarks from [his blog post about all of this](http://www.hanselman.com/blog/ASPNET5AndNETCoreRC1InContextPlusAllTheConnect2015News.aspx).\n\n>WHAT DOES IT ALL MEAN?\n\n> It means that you can build basically whatever you want, however you want. You can use the editor you like, the OS you like, and the languages you like. VSCode on a Mac doing Node and deploying to Azure? Check. ASP.NET 5 with C# to [Docker Containers in a bunch of VMs created in Azure and managed with Microsoft Operations Manager](http://blogs.technet.com/b/momteam/archive/2015/11/04/oms-agent-for-linux-now-available.aspx)? Check. And on and on. Node.js on VS, C to Raspberry Pi's in C in VS, whatever you dig. It's a whole new world. ",
+                        "html": "<p>Microsoft keeps going on their Open Source Cross Platform woot train.</p>\n\n<p><a href=\"http://www.hanselman.com/blog/ASPNET5AndNETCoreRC1InContextPlusAllTheConnect2015News.aspx\">Scott Hanselman has more details.</a>  Read on for a summary from yours truly.</p>\n\n<p><strong>Visual Studio Code</strong> (like Sublime Text, Github Atom, etc., not an IDE) is Open Source, and in a new Beta that supports Extensions.  Go support, Yeoman, and Open File in Vim (for your command line friends) are some featured extensions.  It is cross platform too!</p>\n\n<p><strong>ASP.NET 5 RC1</strong> is the cross platform release candidate for that Microsoft web framework thing that no one uses outside of Windows.   The \"5\" part actually means you can develop, host, and run ASP.NET from Linux and OS X.  It has a \"Go Live\" license which means if you want to deploy it to Production in Linux or OS X, Microsoft will support you.  Documentation is pretty wizard too.  Docs are still under works, but does a wizard ever really stop working?  (Is wizard still a thing?  Yes?  Good.)</p>\n\n<p>If you absolutely have to do it right now, <em>it's dangerous to go alone! Take this</em> : <a href=\"http://get.asp.net/\">http://get.asp.net/</a>.  The site should detect your OS and tell you how to get ASP.NET.  On my phone, it just said view source.  Maaan, I wanted ASP.NET running off of my Android 6.0 phone.</p>\n\n<p><em>How are you natively developing and running .NET bits outside of Windows?! Sorcery?!</em></p>\n\n<p>Naw, this thing called <strong>.NET Core</strong> is, you guessed it, the core bits of the .NET framework, excluding things that tie directly to the Windows OS *<em>cough*</em> WPF *<em>cough*</em> WinForms.  Not sure anyone outside Windows wants those anyway.  Development of the Core is primarily driven by ASP.NET 5 workloads, but it aims to fulfill the desire for a modular runtime where features and libraries can be cherry picked.  It is the \"If you ask for a banana, you get only a banana and NOT the Gorilla and NOT the rest of the jungle\" kind of thing.  <a href=\"http://docs.asp.net/en/latest/conceptual-overview/dotnetcore.html\">http://docs.asp.net/en/latest/conceptual-overview/dotnetcore.html</a></p>\n\n<p>The <strong>.NET Execution Environment (DNX)</strong> is the money.  It feels like being a magician.  \"Hey Rocky, watch me run this Microsoft application in my RedHat\". <br />\n<img src=\"/content/images/2015/11/bullwinkle-redhat.png\" alt=\"\" />\n(Okay, I'll stop)</p>\n\n<p>The DNX is where you pick the .NET bits you want available for your runtime environment on your target platform.  It is the SDK for your application.  The DNX Version Manager (DNVM) allows you to wrangle your many DNX versions and flavors, and you can switch between them a la command line. <br />\n<a href=\"http://docs.asp.net/en/latest/dnx/overview.html\">http://docs.asp.net/en/latest/dnx/overview.html</a></p>\n\n<p>Why would you want to run Microsoft code on Linux?  Maybe that is what your IT staff knows.  Maybe you do not want to have that one Microsoft box in the corner.  The DNX and .NET Core lets you treat Linux as just another place to run your bits.  Well, CentOS and CentOS derivations are not supported yet as of RC1's known issues.</p>\n\n<p>I rip off Scott Hanselman's closing remarks from <a href=\"http://www.hanselman.com/blog/ASPNET5AndNETCoreRC1InContextPlusAllTheConnect2015News.aspx\">his blog post about all of this</a>.</p>\n\n<blockquote>\n  <p>WHAT DOES IT ALL MEAN?</p>\n  \n  <p>It means that you can build basically whatever you want, however you want. You can use the editor you like, the OS you like, and the languages you like. VSCode on a Mac doing Node and deploying to Azure? Check. ASP.NET 5 with C# to <a href=\"http://blogs.technet.com/b/momteam/archive/2015/11/04/oms-agent-for-linux-now-available.aspx\">Docker Containers in a bunch of VMs created in Azure and managed with Microsoft Operations Manager</a>? Check. And on and on. Node.js on VS, C to Raspberry Pi's in C in VS, whatever you dig. It's a whole new world. </p>\n</blockquote>",
+                        "image": null,
+                        "featured": 0,
+                        "page": 0,
+                        "status": "published",
+                        "language": "en_US",
+                        "meta_title": null,
+                        "meta_description": null,
+                        "author_id": 1,
+                        "created_at": 1448335466337,
+                        "created_by": 1,
+                        "updated_at": 1448338057213,
+                        "updated_by": 1,
+                        "published_at": 1448338057213,
+                        "published_by": 1
+                    },
+                    {
+                        "id": 3,
+                        "uuid": "9c2eb1cc-ada2-4d7a-84cd-605399658a11",
+                        "title": "Install Windows Nano Server on Raspberry Pi 2",
+                        "slug": "install-windows-nano-server-on-raspberry-pi-2",
+                        "markdown": "",
+                        "html": "",
+                        "image": null,
+                        "featured": 0,
+                        "page": 0,
+                        "status": "draft",
+                        "language": "en_US",
+                        "meta_title": null,
+                        "meta_description": null,
+                        "author_id": 1,
+                        "created_at": 1448578127676,
+                        "created_by": 1,
+                        "updated_at": 1448582797035,
+                        "updated_by": 1,
+                        "published_at": null,
+                        "published_by": null
+                    },
+                    {
+                        "id": 5,
+                        "uuid": "2e35dcb0-827f-4a5a-adf7-5c3182ce6348",
+                        "title": "CRM 2016 Deactivate Record on Form With Emtpy Required Fields Bug and Workaround",
+                        "slug": "crm-2016-deactivate-record-bug-and-workaround",
+                        "markdown": "### Summary\n**Problem:**\n\nIf an entity record is missing required fields, you get an error when trying to deactivate the record from the form.\n\n**Solution Summary:**\n\nI assume you know how to use RibbonWorkbench to edit entity ribbons so I gloss over the setup specifics.  Review the [Getting Started Guide at the author's website](https://ribbonworkbench.uservoice.com/knowledgebase/articles/71374-1-getting-started-with-the-ribbon-workbench) and the [CRM 2016 RibbonWorkbench beta announcement post](http://develop1.net/public/post/Ribbon-Workbench-2016-Beta.aspx) for more information about Ribbon Workbench.\n\n1. Open a solution containing the entities you want to fix in Ribbon Workbench.\n2. Add a Custom Javascript Action **above** the existing Custom Javascript Action.  Our new action must execute first.\n3. Have the action call a function that does the following:\n    1. remove the required level from all form fields then return.  This must be synchronous code \t\t because the next Action will execute immediately after the first action returns.  It should        remember which fields were required if you want to restore them after `statecode` changes.\n    2. *(optional)* add an OnChange event to the `statecode` attribute (make sure this is on the form) to restore the required level to the correct attributes.\n4. Publish the solution from Ribbon Workbench.\n\n---\n\n### The Workaround\n\nIn CRM 2016 ([and similarly for others in 2013+](https://community.dynamics.com/crm/f/117/t/117841)), we ran into an odd error around deactivating Accounts and Contacts from their forms.  This likely can happen on any record having a Deactivate button.  If a Contact record is missing a required field denoted by a red \\*, then clicking the Deactivate button and completing the popup window by clicking OK, you get a not so helpful error message:\n\n![Popup saying An Error has occurred. Please return to the home page and try again.](http://i.imgur.com/RZGPVLx.png)\n(The obscured window is the \"Confirm Deactivation\" CRM lightbox.)\n\nIf you fill in the required fields and try again (with or without saving the form), then the Deactivate button click works.  Deactivating the record from a homepage grid or subgrid works regardless of the required fields.  The grid approach does not need required fields to be filled.  Why does the form need it?  Since the required fields were the apparent blockers, I thought the button was changing the statecode and statuscode fields, saving the form, and failing because you can't save the form when required fields are empty.  We have to see how the Deactivate button works, and I used [Ribbon Workbench for CRM 2016 (beta)](https://community.dynamics.com/crm/b/develop1/archive/2016/04/25/ribbon-workbench-2016-beta) to see the function name I need to find.\n\n![Deactivate Account form button in Ribbon Workbench](http://i.imgur.com/GbvTDwn.png)\n\nThe bottom right **Custom Javascript Action** is what an uncustomized Deactivate Button command does when clicked.  Ignore the action above it for now - it is the workaround I will describe later.\n\nThe RibbonWorkbench showed me the library and function the Deactivate button calls - `CommandBarActions.js` and `Mscrm.CommandBarActions.changeState`.  If I am on the Account form, the button calls `Mscrm.CommandBarActions.changeState(\"deactivate\", \"{my-account-guid}\", \"account\")`.  I copied into a gist the code that I followed while trying to mentally trace what happens when Deactivate is clicked in our scenario.  It is not the full CommandBarActions.js file.  I don't find a definitive answer, but if you want to read the optional ramblings, follow the comments from top to bottom in this gist.  It is suffice to know that empty required fields are the root of the problem that we can fix.\n\nI think this is a bug in CRM 2016 forms, but we can work around it in a supported way.  I wonder why the form does not do a [specialized UpdateRequest](https://msdn.microsoft.com/en-us/library/dn932124.aspx) (fancy name for \"just update the statecode and statuscode in the UpdateRequest\") through REST or WebApi?  It might be on a backlog somewhere.\n<script src=\"https://gist.github.com/gfritz/99f3a44e2723da5a4980fc739f4c5d8e.js\"></script>\n\nCheck the top right Custom Javascript Action again.  Notice the Custom Javascript Action called `deactivateFromFormWorkaround` taking `PrimaryEntityTypeName` as a parameter.  This will temporarily remove the required level from required fields so deactivating from the form will complete.\n![Custom Javascript Action Workaround with Ribbon Workbench](http://i.imgur.com/GbvTDwn.png)\n\n<script src=\"https://gist.github.com/gfritz/fd6a70dfb5258f666b85a217bc289efe.js\"></script>\n\nThis code could have instead done a Metadata query to retrieve which fields are required for this form.  The SDK javascript libraries do asynchronous calls, and you can modify the functions to add a parameter to make them synchronous calls if you want.  I think the presented approach is simpler and definitely less code.  You do not have to restore the required levels as it is just a cleanup step.\n\nOne problem with this approach is if the user cancels the Deactivate confirmation, then the formerly required fields will still be not required.",
+                        "html": "<h3 id=\"summary\">Summary</h3>\n\n<p><strong>Problem:</strong></p>\n\n<p>If an entity record is missing required fields, you get an error when trying to deactivate the record from the form.</p>\n\n<p><strong>Solution Summary:</strong></p>\n\n<p>I assume you know how to use RibbonWorkbench to edit entity ribbons so I gloss over the setup specifics.  Review the <a href=\"https://ribbonworkbench.uservoice.com/knowledgebase/articles/71374-1-getting-started-with-the-ribbon-workbench\">Getting Started Guide at the author's website</a> and the <a href=\"http://develop1.net/public/post/Ribbon-Workbench-2016-Beta.aspx\">CRM 2016 RibbonWorkbench beta announcement post</a> for more information about Ribbon Workbench.</p>\n\n<ol>\n<li>Open a solution containing the entities you want to fix in Ribbon Workbench.  </li>\n<li>Add a Custom Javascript Action <strong>above</strong> the existing Custom Javascript Action.  Our new action must execute first.  </li>\n<li>Have the action call a function that does the following: <br />\n<ol><li>remove the required level from all form fields then return.  This must be synchronous code          because the next Action will execute immediately after the first action returns.  It should        remember which fields were required if you want to restore them after <code>statecode</code> changes.</li>\n<li><em>(optional)</em> add an OnChange event to the <code>statecode</code> attribute (make sure this is on the form) to restore the required level to the correct attributes.</li></ol></li>\n<li>Publish the solution from Ribbon Workbench.</li>\n</ol>\n\n<hr />\n\n<h3 id=\"theworkaround\">The Workaround</h3>\n\n<p>In CRM 2016 (<a href=\"https://community.dynamics.com/crm/f/117/t/117841\">and similarly for others in 2013+</a>), we ran into an odd error around deactivating Accounts and Contacts from their forms.  This likely can happen on any record having a Deactivate button.  If a Contact record is missing a required field denoted by a red *, then clicking the Deactivate button and completing the popup window by clicking OK, you get a not so helpful error message:</p>\n\n<p><img src=\"http://i.imgur.com/RZGPVLx.png\" alt=\"Popup saying An Error has occurred. Please return to the home page and try again.\" />\n(The obscured window is the \"Confirm Deactivation\" CRM lightbox.)</p>\n\n<p>If you fill in the required fields and try again (with or without saving the form), then the Deactivate button click works.  Deactivating the record from a homepage grid or subgrid works regardless of the required fields.  The grid approach does not need required fields to be filled.  Why does the form need it?  Since the required fields were the apparent blockers, I thought the button was changing the statecode and statuscode fields, saving the form, and failing because you can't save the form when required fields are empty.  We have to see how the Deactivate button works, and I used <a href=\"https://community.dynamics.com/crm/b/develop1/archive/2016/04/25/ribbon-workbench-2016-beta\">Ribbon Workbench for CRM 2016 (beta)</a> to see the function name I need to find.</p>\n\n<p><img src=\"http://i.imgur.com/GbvTDwn.png\" alt=\"Deactivate Account form button in Ribbon Workbench\" /></p>\n\n<p>The bottom right <strong>Custom Javascript Action</strong> is what an uncustomized Deactivate Button command does when clicked.  Ignore the action above it for now - it is the workaround I will describe later.</p>\n\n<p>The RibbonWorkbench showed me the library and function the Deactivate button calls - <code>CommandBarActions.js</code> and <code>Mscrm.CommandBarActions.changeState</code>.  If I am on the Account form, the button calls <code>Mscrm.CommandBarActions.changeState(\"deactivate\", \"{my-account-guid}\", \"account\")</code>.  I copied into a gist the code that I followed while trying to mentally trace what happens when Deactivate is clicked in our scenario.  It is not the full CommandBarActions.js file.  I don't find a definitive answer, but if you want to read the optional ramblings, follow the comments from top to bottom in this gist.  It is suffice to know that empty required fields are the root of the problem that we can fix.</p>\n\n<p>I think this is a bug in CRM 2016 forms, but we can work around it in a supported way.  I wonder why the form does not do a <a href=\"https://msdn.microsoft.com/en-us/library/dn932124.aspx\">specialized UpdateRequest</a> (fancy name for \"just update the statecode and statuscode in the UpdateRequest\") through REST or WebApi?  It might be on a backlog somewhere.  </p>\n\n<script src=\"https://gist.github.com/gfritz/99f3a44e2723da5a4980fc739f4c5d8e.js\"></script>\n\n<p>Check the top right Custom Javascript Action again.  Notice the Custom Javascript Action called <code>deactivateFromFormWorkaround</code> taking <code>PrimaryEntityTypeName</code> as a parameter.  This will temporarily remove the required level from required fields so deactivating from the form will complete. <br />\n<img src=\"http://i.imgur.com/GbvTDwn.png\" alt=\"Custom Javascript Action Workaround with Ribbon Workbench\" /></p>\n\n<script src=\"https://gist.github.com/gfritz/fd6a70dfb5258f666b85a217bc289efe.js\"></script>\n\n<p>This code could have instead done a Metadata query to retrieve which fields are required for this form.  The SDK javascript libraries do asynchronous calls, and you can modify the functions to add a parameter to make them synchronous calls if you want.  I think the presented approach is simpler and definitely less code.  You do not have to restore the required levels as it is just a cleanup step.</p>\n\n<p>One problem with this approach is if the user cancels the Deactivate confirmation, then the formerly required fields will still be not required.</p>",
+                        "image": null,
+                        "featured": 0,
+                        "page": 0,
+                        "status": "published",
+                        "language": "en_US",
+                        "meta_title": "",
+                        "meta_description": "",
+                        "author_id": 1,
+                        "created_at": 1471531402022,
+                        "created_by": 1,
+                        "updated_at": 1487793601912,
+                        "updated_by": 1,
+                        "published_at": 1471874571413,
+                        "published_by": 1
+                    },
+                    {
+                        "id": 6,
+                        "uuid": "5d4971a6-4e8c-47de-a911-016ab3a01d73",
+                        "title": "CRM 2016 Set Non-Mapped Values in Relationship Mappings",
+                        "slug": "crm-2016-set-static-values-using-default-relationship-mappings",
+                        "markdown": "**Requirement:** Replace freetext Assistant fields on the Contact form with a referential 1:N Contact relationship lookup field.\n\n**Summary:**\n\n1. Create a new Contact lookup field, refrential relationship type.\n2. Notice that the default set of field mappings will default the Assistant field to the Contact you are creating the Assistant from.\n3. Register and fire an OnChange event in the Quick Create form OnLoad event to check the Assistant GUID against the CreateFromId from QueryStringParameters.\n4. If the GUIDs match, then you know this form is being used to create an Assistant.\n5. Add JavaScript to the Assistant OnChange that runs when the GUIDs match to do other Assistant-only defaulting that the Relationship Mappings cannot do (or if non-mapped fields should not be changed by the user, then register a Pre-Create of Contact event plugin to set them instead of this JavaScript).\n\nWhen creating a new lookup field, you have to create a new relationship.  CRM will generate a set of default mappings for new relationships.  We wanted to use a lookup to another Contact record instead of using the freetext fields \"Assistant\", \"Assistant Email\", and \"Assistant Phone\" on a Contact.\n\n![Assistant Freetext Fields to replace with a Contact Lookup](http://i.imgur.com/o5f21cn.png)\n\nIn our example, we have created a 1:N relationship from Contact to Contact for a field called Assistant.  Any fields in the mappings list will populate onto the Create form for you.  If you want to use this defaulting in plugin code, you have to use the [InitializeFromRequest](https://msdn.microsoft.com/en-us/library/microsoft.crm.sdk.messages.initializefromrequest.aspx) or [WebApi InitializeFrom function](https://msdn.microsoft.com/en-us/library/mt683533.aspx).  One of the automatic field mappings defaults the Assistant field of the new record to the Contact from which it is being created.  This is a bad default because it is a circular reference, and CRM complains about it when you try to save the form.  If Assistant was not on the create form, this probably would not happen.  Our requirement specifically wants the field on the form though.\n\n![ContactId to Assistant Mapping You Cannot Change](http://i.imgur.com/cpJpVNj.png)\n\nWe enabled the Contact entity for Quick Create forms, and the Assistant field is on the Quick Create form.  CRM does not let you delete or modify that relationship mapping so we have to do some client-side validation.  Add an OnChange event to the Assistant field and fire it in the OnLoad event of the Quick Create form.  The relationship populates the fields before OnLoad fires.  The OnChange event should clear the Assistant field if the GUID of the Assistant lookup matches the GUID of the source Contact record.  In a Quick Create form launched from a lookup field, you can get the source GUID from `Xrm.Page.context.getQueryStringParameters()._CreateFromId`.\n\nIf I am creating an Assistant for my Contact named \"test, testington\", then this is what the QueryStringParameters return object looks like.  Hit F12 when the Quick Create form is open then type that code - frames[0] or frames[1] might be necessary if the Xrm.Page object is sort of empty.\n![GetQueryStringParameters example](http://i.imgur.com/JabCMpI.png)\n\n<script src=\"https://gist.github.com/gfritz/0a1e6d196b93c6207ffcc81f9ce77833.js\"></script>\n\nThe `XrmCommon` stuff is just my wrapper around the `Xrm.Page` object.  In this code block, the function names match Xrm.Page functions, and the only magic they do is check that a field exists on the form before calling the base `Xrm.Page` function.\n\nNow you can do code specific to creating a new Assistant contact.  We know that if the Assistant lookup GUID matches the `_CreateFromId`, then this Quick Create form was launched from the Assistant lookup field on a Contact form.  This Quick Create form is going to create a new Assistant Contact!  In our case, the only additional default we wanted was to set the Relationship Type to a custom OptionSet value labeled \"Assistant\".  Relationship mappings alone cannot do that.  Since we only wanted one field defaulted, I just added one more line into the Assistant OnChange function that I already had.\n\nIf there were many more fields to set, more complicated logic to run, or other records to create or link while creating an Assistant, I would do the work in a plugin registered on the Pre-Operation Create event of Contacts.  If lots of fields were going to get defaulted that the user probably should not change, then good form design would be to not put them on the form at all, and use plugin code to set the defaults during the Pre-Create event.  Do it in the Pre-Create event to create the record with those values already set.  If you do it in the Post-Create event, it will still work, but you cause an Update Contact event which is another transaction and audit history entry.\n\nI think if we did not put the Assistant field on the Quick Create form, we probably would not get the circular reference error in the first place, and we could have used a plugin to default the Relationship Type to Assistant during the Pre-Create stage.",
+                        "html": "<p><strong>Requirement:</strong> Replace freetext Assistant fields on the Contact form with a referential 1:N Contact relationship lookup field.</p>\n\n<p><strong>Summary:</strong></p>\n\n<ol>\n<li>Create a new Contact lookup field, refrential relationship type.  </li>\n<li>Notice that the default set of field mappings will default the Assistant field to the Contact you are creating the Assistant from.  </li>\n<li>Register and fire an OnChange event in the Quick Create form OnLoad event to check the Assistant GUID against the CreateFromId from QueryStringParameters.  </li>\n<li>If the GUIDs match, then you know this form is being used to create an Assistant.  </li>\n<li>Add JavaScript to the Assistant OnChange that runs when the GUIDs match to do other Assistant-only defaulting that the Relationship Mappings cannot do (or if non-mapped fields should not be changed by the user, then register a Pre-Create of Contact event plugin to set them instead of this JavaScript).</li>\n</ol>\n\n<p>When creating a new lookup field, you have to create a new relationship.  CRM will generate a set of default mappings for new relationships.  We wanted to use a lookup to another Contact record instead of using the freetext fields \"Assistant\", \"Assistant Email\", and \"Assistant Phone\" on a Contact.</p>\n\n<p><img src=\"http://i.imgur.com/o5f21cn.png\" alt=\"Assistant Freetext Fields to replace with a Contact Lookup\" /></p>\n\n<p>In our example, we have created a 1:N relationship from Contact to Contact for a field called Assistant.  Any fields in the mappings list will populate onto the Create form for you.  If you want to use this defaulting in plugin code, you have to use the <a href=\"https://msdn.microsoft.com/en-us/library/microsoft.crm.sdk.messages.initializefromrequest.aspx\">InitializeFromRequest</a> or <a href=\"https://msdn.microsoft.com/en-us/library/mt683533.aspx\">WebApi InitializeFrom function</a>.  One of the automatic field mappings defaults the Assistant field of the new record to the Contact from which it is being created.  This is a bad default because it is a circular reference, and CRM complains about it when you try to save the form.  If Assistant was not on the create form, this probably would not happen.  Our requirement specifically wants the field on the form though.</p>\n\n<p><img src=\"http://i.imgur.com/cpJpVNj.png\" alt=\"ContactId to Assistant Mapping You Cannot Change\" /></p>\n\n<p>We enabled the Contact entity for Quick Create forms, and the Assistant field is on the Quick Create form.  CRM does not let you delete or modify that relationship mapping so we have to do some client-side validation.  Add an OnChange event to the Assistant field and fire it in the OnLoad event of the Quick Create form.  The relationship populates the fields before OnLoad fires.  The OnChange event should clear the Assistant field if the GUID of the Assistant lookup matches the GUID of the source Contact record.  In a Quick Create form launched from a lookup field, you can get the source GUID from <code>Xrm.Page.context.getQueryStringParameters()._CreateFromId</code>.</p>\n\n<p>If I am creating an Assistant for my Contact named \"test, testington\", then this is what the QueryStringParameters return object looks like.  Hit F12 when the Quick Create form is open then type that code - frames[0] or frames[1] might be necessary if the Xrm.Page object is sort of empty. <br />\n<img src=\"http://i.imgur.com/JabCMpI.png\" alt=\"GetQueryStringParameters example\" /></p>\n\n<script src=\"https://gist.github.com/gfritz/0a1e6d196b93c6207ffcc81f9ce77833.js\"></script>\n\n<p>The <code>XrmCommon</code> stuff is just my wrapper around the <code>Xrm.Page</code> object.  In this code block, the function names match Xrm.Page functions, and the only magic they do is check that a field exists on the form before calling the base <code>Xrm.Page</code> function.</p>\n\n<p>Now you can do code specific to creating a new Assistant contact.  We know that if the Assistant lookup GUID matches the <code>_CreateFromId</code>, then this Quick Create form was launched from the Assistant lookup field on a Contact form.  This Quick Create form is going to create a new Assistant Contact!  In our case, the only additional default we wanted was to set the Relationship Type to a custom OptionSet value labeled \"Assistant\".  Relationship mappings alone cannot do that.  Since we only wanted one field defaulted, I just added one more line into the Assistant OnChange function that I already had.</p>\n\n<p>If there were many more fields to set, more complicated logic to run, or other records to create or link while creating an Assistant, I would do the work in a plugin registered on the Pre-Operation Create event of Contacts.  If lots of fields were going to get defaulted that the user probably should not change, then good form design would be to not put them on the form at all, and use plugin code to set the defaults during the Pre-Create event.  Do it in the Pre-Create event to create the record with those values already set.  If you do it in the Post-Create event, it will still work, but you cause an Update Contact event which is another transaction and audit history entry.</p>\n\n<p>I think if we did not put the Assistant field on the Quick Create form, we probably would not get the circular reference error in the first place, and we could have used a plugin to default the Relationship Type to Assistant during the Pre-Create stage.</p>",
+                        "image": null,
+                        "featured": 0,
+                        "page": 0,
+                        "status": "published",
+                        "language": "en_US",
+                        "meta_title": null,
+                        "meta_description": "Handling an unchangeable relationship mapping default with some JavaScript in CRM 2016, and using that relationship to set other form defaults.",
+                        "author_id": 1,
+                        "created_at": 1471533992229,
+                        "created_by": 1,
+                        "updated_at": 1487794876195,
+                        "updated_by": 1,
+                        "published_at": 1471619645647,
+                        "published_by": 1
+                    },
+                    {
+                        "id": 8,
+                        "uuid": "1e6c8d96-9c60-4acc-b1c1-a08c0acc701e",
+                        "title": "Clearing Entity Fields in Early Bound Plugin Code",
+                        "slug": "clearing-entity-fields-in-early-bound-plugin-code",
+                        "markdown": "If you try to NULL the value of an Entity field and save that change with the CRM OrganizationServiceContext, you need to be careful how you set that NULL value.  If the field to NULL is not in the ``myEntity.Attributes`` collection, then it will not be updated when the service call updates the record in CRM.\n\nWe can demonstrate this by initializing the early bound Account entity in a few different ways and inspecting the Attribute collection.  The field to clear in this example will be ``ParentAccountId``.\n\nFirst, we will use the constructor then NULL with dot notation.  \nSecond, we use the object initializer syntax and null with that.\nThird, we initialize only the ID field and use dot notation to set the field NULL.  \n\nThese attempts will not put ParentAcountId into the Attributes collection.  Two ways that will work are setting the field to NULL with the late bound class, and initializing or setting ParentAccountId with a dummy non-NULL value in the early bound class then setting the field to NULL.\n\nThis test class will demonstrate each of these approaches.\n\n<script src=\"https://gist.github.com/gfritz/bf68281d1326bcc2afe0.js\"></script>\n\nIn this case, using the late bound entity is more straightforward than using the early bound entity.  With late bound you will not get intellisense so make sure you have the correct spelling and casing for your field.  You can find the correct string to use in your early bound entities file by hitting F12 on the early bound field and inspecting the method decorator.  For our field, we use the string in here: ``[Microsoft.Xrm.Sdk.AttributeLogicalNameAttribute(\"parentaccountid\")]``.  \n\nIf you use the [Early Bound Generator tool](https://github.com/daryllabar/DLaB.Xrm.XrmToolBoxTools/releases) from the [XRM Toolbox](http://www.xrmtoolbox.com/), one particularly useful thing it does is enumerates each attribute name as a struct of strings.  That provides intellisense and the correctly cased string name of the field.\n\nInitializing an early bound entity field with NULL looks like code that should work, but chances are you only notice the problem when the update does not clear that field in CRM.  You could just as easily do ``earlyBoundAccount[\"parentaccountid\"] = null;``, but why would that be your first choice when you have early bound classes?\n\nYou might consider a wrapper class to handle this NULL setting logic for you, or probably simpler still an extension method ``SetToNull(myAccount, \"nameOfFieldToClear\")`` so you can use this for all entities.  Remember to use the ``Fields`` struct if you use the Early Bound Generator to create your early bound classes - ``SetToNull(myAccount, Account.Fields.NameOfFieldToClear)``.",
+                        "html": "<p>If you try to NULL the value of an Entity field and save that change with the CRM OrganizationServiceContext, you need to be careful how you set that NULL value.  If the field to NULL is not in the <code>myEntity.Attributes</code> collection, then it will not be updated when the service call updates the record in CRM.</p>\n\n<p>We can demonstrate this by initializing the early bound Account entity in a few different ways and inspecting the Attribute collection.  The field to clear in this example will be <code>ParentAccountId</code>.</p>\n\n<p>First, we will use the constructor then NULL with dot notation. <br />\nSecond, we use the object initializer syntax and null with that. <br />\nThird, we initialize only the ID field and use dot notation to set the field NULL.  </p>\n\n<p>These attempts will not put ParentAcountId into the Attributes collection.  Two ways that will work are setting the field to NULL with the late bound class, and initializing or setting ParentAccountId with a dummy non-NULL value in the early bound class then setting the field to NULL.</p>\n\n<p>This test class will demonstrate each of these approaches.</p>\n\n<script src=\"https://gist.github.com/gfritz/bf68281d1326bcc2afe0.js\"></script>\n\n<p>In this case, using the late bound entity is more straightforward than using the early bound entity.  With late bound you will not get intellisense so make sure you have the correct spelling and casing for your field.  You can find the correct string to use in your early bound entities file by hitting F12 on the early bound field and inspecting the method decorator.  For our field, we use the string in here: <code>[Microsoft.Xrm.Sdk.AttributeLogicalNameAttribute(\"parentaccountid\")]</code>.  </p>\n\n<p>If you use the <a href=\"https://github.com/daryllabar/DLaB.Xrm.XrmToolBoxTools/releases\">Early Bound Generator tool</a> from the <a href=\"http://www.xrmtoolbox.com/\">XRM Toolbox</a>, one particularly useful thing it does is enumerates each attribute name as a struct of strings.  That provides intellisense and the correctly cased string name of the field.</p>\n\n<p>Initializing an early bound entity field with NULL looks like code that should work, but chances are you only notice the problem when the update does not clear that field in CRM.  You could just as easily do <code>earlyBoundAccount[\"parentaccountid\"] = null;</code>, but why would that be your first choice when you have early bound classes?</p>\n\n<p>You might consider a wrapper class to handle this NULL setting logic for you, or probably simpler still an extension method <code>SetToNull(myAccount, \"nameOfFieldToClear\")</code> so you can use this for all entities.  Remember to use the <code>Fields</code> struct if you use the Early Bound Generator to create your early bound classes - <code>SetToNull(myAccount, Account.Fields.NameOfFieldToClear)</code>.</p>",
+                        "image": null,
+                        "featured": 0,
+                        "page": 0,
+                        "status": "published",
+                        "language": "en_US",
+                        "meta_title": null,
+                        "meta_description": null,
+                        "author_id": 1,
+                        "created_at": 1487794248731,
+                        "created_by": 1,
+                        "updated_at": 1487794264380,
+                        "updated_by": 1,
+                        "published_at": 1487794264380,
+                        "published_by": 1
+                    }
+                ],
+                "users": [
+                    {
+                        "id": 1,
+                        "uuid": "cf02736e-0f2c-434a-a772-139a3c45d8dc",
+                        "name": "Garth Fritz",
+                        "slug": "garth",
+                        "password": "$2a$10$vzciCYiYj4Z50/e4Yp93L.CUpUXSbUli0HYYl6.5ea.vqibyvLJLy",
+                        "email": "garth.fritz@gmail.com",
+                        "image": "//www.gravatar.com/avatar/871018f61df602405c55f769b3d22446?d=404&s=250",
+                        "cover": null,
+                        "bio": "Opinions here are my own and not my company's blah blah blah.\nAssume I'm right at your own risk.\nCopyright *now*",
+                        "website": null,
+                        "location": "Atlanta, Georgia, USA",
+                        "accessibility": null,
+                        "status": "active",
+                        "language": "en_US",
+                        "meta_title": null,
+                        "meta_description": null,
+                        "last_login": 1487811900464,
+                        "created_at": 1448333095612,
+                        "created_by": 1,
+                        "updated_at": 1487811900464,
+                        "updated_by": 1
+                    }
+                ],
+                "roles": [
+                    {
+                        "id": 1,
+                        "uuid": "f31c50d7-25c3-4a61-ac8e-c01bbe01147f",
+                        "name": "Administrator",
+                        "description": "Administrators",
+                        "created_at": 1448333085286,
+                        "created_by": 1,
+                        "updated_at": 1448333085286,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 2,
+                        "uuid": "3053816c-1845-4a2e-ab4c-e7b0724d5f0f",
+                        "name": "Editor",
+                        "description": "Editors",
+                        "created_at": 1448333085286,
+                        "created_by": 1,
+                        "updated_at": 1448333085286,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 3,
+                        "uuid": "1120a20d-ab66-4184-a7a4-c557eac3815b",
+                        "name": "Author",
+                        "description": "Authors",
+                        "created_at": 1448333085286,
+                        "created_by": 1,
+                        "updated_at": 1448333085286,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 4,
+                        "uuid": "5ce6bdd9-90f9-454a-80a2-5af77157a34a",
+                        "name": "Owner",
+                        "description": "Blog Owner",
+                        "created_at": 1448333085286,
+                        "created_by": 1,
+                        "updated_at": 1448333085286,
+                        "updated_by": 1
+                    }
+                ],
+                "roles_users": [
+                    {
+                        "id": 1,
+                        "role_id": 4,
+                        "user_id": 1
+                    }
+                ],
+                "permissions": [
+                    {
+                        "id": 1,
+                        "uuid": "deb797c9-4c84-4239-8643-7c1c635f3cdb",
+                        "name": "Export database",
+                        "object_type": "db",
+                        "action_type": "exportContent",
+                        "object_id": null,
+                        "created_at": 1448333086147,
+                        "created_by": 1,
+                        "updated_at": 1448333086147,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 2,
+                        "uuid": "5e24818a-67a7-4924-997e-c6237f16447b",
+                        "name": "Import database",
+                        "object_type": "db",
+                        "action_type": "importContent",
+                        "object_id": null,
+                        "created_at": 1448333086257,
+                        "created_by": 1,
+                        "updated_at": 1448333086257,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 3,
+                        "uuid": "5cf3c919-bafd-4507-90a4-acf88b1b1fee",
+                        "name": "Delete all content",
+                        "object_type": "db",
+                        "action_type": "deleteAllContent",
+                        "object_id": null,
+                        "created_at": 1448333086335,
+                        "created_by": 1,
+                        "updated_at": 1448333086335,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 4,
+                        "uuid": "d016d8f4-5474-45ab-9515-eaf8da2d16d9",
+                        "name": "Send mail",
+                        "object_type": "mail",
+                        "action_type": "send",
+                        "object_id": null,
+                        "created_at": 1448333086414,
+                        "created_by": 1,
+                        "updated_at": 1448333086414,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 5,
+                        "uuid": "56eaec0c-699b-4261-b885-ce1941ed2356",
+                        "name": "Browse notifications",
+                        "object_type": "notification",
+                        "action_type": "browse",
+                        "object_id": null,
+                        "created_at": 1448333086492,
+                        "created_by": 1,
+                        "updated_at": 1448333086492,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 6,
+                        "uuid": "684cccd4-2946-4a62-928c-d15df2b0d871",
+                        "name": "Add notifications",
+                        "object_type": "notification",
+                        "action_type": "add",
+                        "object_id": null,
+                        "created_at": 1448333086570,
+                        "created_by": 1,
+                        "updated_at": 1448333086570,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 7,
+                        "uuid": "f7f9a9c8-1d4e-489b-b39e-bfefef325a7f",
+                        "name": "Delete notifications",
+                        "object_type": "notification",
+                        "action_type": "destroy",
+                        "object_id": null,
+                        "created_at": 1448333086664,
+                        "created_by": 1,
+                        "updated_at": 1448333086664,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 8,
+                        "uuid": "6152355d-693b-4dc0-82f3-e7bea8f4470a",
+                        "name": "Browse posts",
+                        "object_type": "post",
+                        "action_type": "browse",
+                        "object_id": null,
+                        "created_at": 1448333086742,
+                        "created_by": 1,
+                        "updated_at": 1448333086742,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 9,
+                        "uuid": "e515079a-21e7-4950-97d2-ce33a89dad23",
+                        "name": "Read posts",
+                        "object_type": "post",
+                        "action_type": "read",
+                        "object_id": null,
+                        "created_at": 1448333086851,
+                        "created_by": 1,
+                        "updated_at": 1448333086851,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 10,
+                        "uuid": "d6a8d08a-e390-4686-92ae-399f56362c77",
+                        "name": "Edit posts",
+                        "object_type": "post",
+                        "action_type": "edit",
+                        "object_id": null,
+                        "created_at": 1448333086976,
+                        "created_by": 1,
+                        "updated_at": 1448333086976,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 11,
+                        "uuid": "d97d0516-f983-4260-ae85-1be5cf7af0ac",
+                        "name": "Add posts",
+                        "object_type": "post",
+                        "action_type": "add",
+                        "object_id": null,
+                        "created_at": 1448333087070,
+                        "created_by": 1,
+                        "updated_at": 1448333087070,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 12,
+                        "uuid": "0947e3b4-bb03-4c3f-937a-8afc7da7a55e",
+                        "name": "Delete posts",
+                        "object_type": "post",
+                        "action_type": "destroy",
+                        "object_id": null,
+                        "created_at": 1448333087195,
+                        "created_by": 1,
+                        "updated_at": 1448333087195,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 13,
+                        "uuid": "27c9f927-3f29-456d-a691-e2d1bdd56fc0",
+                        "name": "Browse settings",
+                        "object_type": "setting",
+                        "action_type": "browse",
+                        "object_id": null,
+                        "created_at": 1448333087290,
+                        "created_by": 1,
+                        "updated_at": 1448333087290,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 14,
+                        "uuid": "a0e382d7-e9a6-4c3d-909b-68124940bf15",
+                        "name": "Read settings",
+                        "object_type": "setting",
+                        "action_type": "read",
+                        "object_id": null,
+                        "created_at": 1448333087368,
+                        "created_by": 1,
+                        "updated_at": 1448333087368,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 15,
+                        "uuid": "0c1f5b29-4c57-4012-afd3-8408a6d7ac8d",
+                        "name": "Edit settings",
+                        "object_type": "setting",
+                        "action_type": "edit",
+                        "object_id": null,
+                        "created_at": 1448333087446,
+                        "created_by": 1,
+                        "updated_at": 1448333087446,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 16,
+                        "uuid": "f001a487-6777-4df3-bebd-1e83a78b77df",
+                        "name": "Generate slugs",
+                        "object_type": "slug",
+                        "action_type": "generate",
+                        "object_id": null,
+                        "created_at": 1448333087524,
+                        "created_by": 1,
+                        "updated_at": 1448333087524,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 17,
+                        "uuid": "c3312d06-9647-4e8b-a3ac-fb3169d52033",
+                        "name": "Browse tags",
+                        "object_type": "tag",
+                        "action_type": "browse",
+                        "object_id": null,
+                        "created_at": 1448333087618,
+                        "created_by": 1,
+                        "updated_at": 1448333087618,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 18,
+                        "uuid": "0e0576eb-0c27-4854-94cc-85c053cfe5f1",
+                        "name": "Read tags",
+                        "object_type": "tag",
+                        "action_type": "read",
+                        "object_id": null,
+                        "created_at": 1448333087696,
+                        "created_by": 1,
+                        "updated_at": 1448333087696,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 19,
+                        "uuid": "7f744f99-c3e0-4234-90eb-bf46416d0dcf",
+                        "name": "Edit tags",
+                        "object_type": "tag",
+                        "action_type": "edit",
+                        "object_id": null,
+                        "created_at": 1448333087775,
+                        "created_by": 1,
+                        "updated_at": 1448333087775,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 20,
+                        "uuid": "54e7a07d-ee7c-4b2d-b083-74999c4e9669",
+                        "name": "Add tags",
+                        "object_type": "tag",
+                        "action_type": "add",
+                        "object_id": null,
+                        "created_at": 1448333087838,
+                        "created_by": 1,
+                        "updated_at": 1448333087838,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 21,
+                        "uuid": "baa8ab0a-be29-4973-805f-2586ae3c17d2",
+                        "name": "Delete tags",
+                        "object_type": "tag",
+                        "action_type": "destroy",
+                        "object_id": null,
+                        "created_at": 1448333087916,
+                        "created_by": 1,
+                        "updated_at": 1448333087916,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 22,
+                        "uuid": "bf9932d0-3d06-4098-aa74-82c196247585",
+                        "name": "Browse themes",
+                        "object_type": "theme",
+                        "action_type": "browse",
+                        "object_id": null,
+                        "created_at": 1448333087994,
+                        "created_by": 1,
+                        "updated_at": 1448333087994,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 23,
+                        "uuid": "0f47e669-3468-4b1f-88f6-d5726c2003f6",
+                        "name": "Edit themes",
+                        "object_type": "theme",
+                        "action_type": "edit",
+                        "object_id": null,
+                        "created_at": 1448333088056,
+                        "created_by": 1,
+                        "updated_at": 1448333088056,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 24,
+                        "uuid": "b79cd151-2ab4-4680-97fa-eea96ba43122",
+                        "name": "Browse users",
+                        "object_type": "user",
+                        "action_type": "browse",
+                        "object_id": null,
+                        "created_at": 1448333088167,
+                        "created_by": 1,
+                        "updated_at": 1448333088167,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 25,
+                        "uuid": "ec38e55b-6805-448c-9fa9-9dbdc110297e",
+                        "name": "Read users",
+                        "object_type": "user",
+                        "action_type": "read",
+                        "object_id": null,
+                        "created_at": 1448333088245,
+                        "created_by": 1,
+                        "updated_at": 1448333088245,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 26,
+                        "uuid": "f6a2d84c-569f-4305-80ca-b169cde55cd5",
+                        "name": "Edit users",
+                        "object_type": "user",
+                        "action_type": "edit",
+                        "object_id": null,
+                        "created_at": 1448333088340,
+                        "created_by": 1,
+                        "updated_at": 1448333088340,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 27,
+                        "uuid": "23e6b446-db14-479e-90a4-78e58dacc862",
+                        "name": "Add users",
+                        "object_type": "user",
+                        "action_type": "add",
+                        "object_id": null,
+                        "created_at": 1448333088434,
+                        "created_by": 1,
+                        "updated_at": 1448333088434,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 28,
+                        "uuid": "ebf69010-e24b-4995-9cb7-c21da8c6676d",
+                        "name": "Delete users",
+                        "object_type": "user",
+                        "action_type": "destroy",
+                        "object_id": null,
+                        "created_at": 1448333088512,
+                        "created_by": 1,
+                        "updated_at": 1448333088512,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 29,
+                        "uuid": "b42eaa18-22a2-47fb-bf77-93c788b95025",
+                        "name": "Assign a role",
+                        "object_type": "role",
+                        "action_type": "assign",
+                        "object_id": null,
+                        "created_at": 1448333088606,
+                        "created_by": 1,
+                        "updated_at": 1448333088606,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 30,
+                        "uuid": "93fe46da-8e7f-44d1-bec0-d9a3de9baecd",
+                        "name": "Browse roles",
+                        "object_type": "role",
+                        "action_type": "browse",
+                        "object_id": null,
+                        "created_at": 1448333088670,
+                        "created_by": 1,
+                        "updated_at": 1448333088670,
+                        "updated_by": 1
+                    }
+                ],
+                "permissions_users": [],
+                "permissions_roles": [
+                    {
+                        "id": 1,
+                        "role_id": 1,
+                        "permission_id": 1
+                    },
+                    {
+                        "id": 2,
+                        "role_id": 1,
+                        "permission_id": 2
+                    },
+                    {
+                        "id": 3,
+                        "role_id": 1,
+                        "permission_id": 3
+                    },
+                    {
+                        "id": 4,
+                        "role_id": 1,
+                        "permission_id": 4
+                    },
+                    {
+                        "id": 5,
+                        "role_id": 1,
+                        "permission_id": 5
+                    },
+                    {
+                        "id": 6,
+                        "role_id": 1,
+                        "permission_id": 6
+                    },
+                    {
+                        "id": 7,
+                        "role_id": 1,
+                        "permission_id": 7
+                    },
+                    {
+                        "id": 8,
+                        "role_id": 1,
+                        "permission_id": 8
+                    },
+                    {
+                        "id": 9,
+                        "role_id": 1,
+                        "permission_id": 9
+                    },
+                    {
+                        "id": 10,
+                        "role_id": 1,
+                        "permission_id": 10
+                    },
+                    {
+                        "id": 11,
+                        "role_id": 1,
+                        "permission_id": 11
+                    },
+                    {
+                        "id": 12,
+                        "role_id": 1,
+                        "permission_id": 12
+                    },
+                    {
+                        "id": 13,
+                        "role_id": 1,
+                        "permission_id": 13
+                    },
+                    {
+                        "id": 14,
+                        "role_id": 1,
+                        "permission_id": 14
+                    },
+                    {
+                        "id": 15,
+                        "role_id": 1,
+                        "permission_id": 15
+                    },
+                    {
+                        "id": 16,
+                        "role_id": 1,
+                        "permission_id": 16
+                    },
+                    {
+                        "id": 17,
+                        "role_id": 1,
+                        "permission_id": 17
+                    },
+                    {
+                        "id": 18,
+                        "role_id": 1,
+                        "permission_id": 18
+                    },
+                    {
+                        "id": 19,
+                        "role_id": 1,
+                        "permission_id": 19
+                    },
+                    {
+                        "id": 20,
+                        "role_id": 1,
+                        "permission_id": 20
+                    },
+                    {
+                        "id": 21,
+                        "role_id": 1,
+                        "permission_id": 21
+                    },
+                    {
+                        "id": 22,
+                        "role_id": 1,
+                        "permission_id": 22
+                    },
+                    {
+                        "id": 23,
+                        "role_id": 1,
+                        "permission_id": 23
+                    },
+                    {
+                        "id": 24,
+                        "role_id": 1,
+                        "permission_id": 24
+                    },
+                    {
+                        "id": 25,
+                        "role_id": 1,
+                        "permission_id": 25
+                    },
+                    {
+                        "id": 26,
+                        "role_id": 1,
+                        "permission_id": 26
+                    },
+                    {
+                        "id": 27,
+                        "role_id": 1,
+                        "permission_id": 27
+                    },
+                    {
+                        "id": 28,
+                        "role_id": 1,
+                        "permission_id": 28
+                    },
+                    {
+                        "id": 29,
+                        "role_id": 1,
+                        "permission_id": 29
+                    },
+                    {
+                        "id": 30,
+                        "role_id": 1,
+                        "permission_id": 30
+                    },
+                    {
+                        "id": 31,
+                        "role_id": 2,
+                        "permission_id": 8
+                    },
+                    {
+                        "id": 32,
+                        "role_id": 2,
+                        "permission_id": 9
+                    },
+                    {
+                        "id": 33,
+                        "role_id": 2,
+                        "permission_id": 10
+                    },
+                    {
+                        "id": 34,
+                        "role_id": 2,
+                        "permission_id": 11
+                    },
+                    {
+                        "id": 35,
+                        "role_id": 2,
+                        "permission_id": 12
+                    },
+                    {
+                        "id": 36,
+                        "role_id": 2,
+                        "permission_id": 13
+                    },
+                    {
+                        "id": 37,
+                        "role_id": 2,
+                        "permission_id": 14
+                    },
+                    {
+                        "id": 38,
+                        "role_id": 2,
+                        "permission_id": 16
+                    },
+                    {
+                        "id": 39,
+                        "role_id": 2,
+                        "permission_id": 17
+                    },
+                    {
+                        "id": 40,
+                        "role_id": 2,
+                        "permission_id": 18
+                    },
+                    {
+                        "id": 41,
+                        "role_id": 2,
+                        "permission_id": 19
+                    },
+                    {
+                        "id": 42,
+                        "role_id": 2,
+                        "permission_id": 20
+                    },
+                    {
+                        "id": 43,
+                        "role_id": 2,
+                        "permission_id": 21
+                    },
+                    {
+                        "id": 44,
+                        "role_id": 2,
+                        "permission_id": 24
+                    },
+                    {
+                        "id": 45,
+                        "role_id": 2,
+                        "permission_id": 25
+                    },
+                    {
+                        "id": 46,
+                        "role_id": 2,
+                        "permission_id": 26
+                    },
+                    {
+                        "id": 47,
+                        "role_id": 2,
+                        "permission_id": 27
+                    },
+                    {
+                        "id": 48,
+                        "role_id": 2,
+                        "permission_id": 28
+                    },
+                    {
+                        "id": 49,
+                        "role_id": 2,
+                        "permission_id": 29
+                    },
+                    {
+                        "id": 50,
+                        "role_id": 2,
+                        "permission_id": 30
+                    },
+                    {
+                        "id": 51,
+                        "role_id": 3,
+                        "permission_id": 8
+                    },
+                    {
+                        "id": 52,
+                        "role_id": 3,
+                        "permission_id": 9
+                    },
+                    {
+                        "id": 53,
+                        "role_id": 3,
+                        "permission_id": 11
+                    },
+                    {
+                        "id": 54,
+                        "role_id": 3,
+                        "permission_id": 13
+                    },
+                    {
+                        "id": 55,
+                        "role_id": 3,
+                        "permission_id": 14
+                    },
+                    {
+                        "id": 56,
+                        "role_id": 3,
+                        "permission_id": 16
+                    },
+                    {
+                        "id": 57,
+                        "role_id": 3,
+                        "permission_id": 17
+                    },
+                    {
+                        "id": 58,
+                        "role_id": 3,
+                        "permission_id": 18
+                    },
+                    {
+                        "id": 59,
+                        "role_id": 3,
+                        "permission_id": 20
+                    },
+                    {
+                        "id": 60,
+                        "role_id": 3,
+                        "permission_id": 24
+                    },
+                    {
+                        "id": 61,
+                        "role_id": 3,
+                        "permission_id": 25
+                    },
+                    {
+                        "id": 62,
+                        "role_id": 3,
+                        "permission_id": 30
+                    }
+                ],
+                "permissions_apps": [],
+                "settings": [
+                    {
+                        "id": 1,
+                        "uuid": "aba5df98-ddbf-425b-ad51-aae40da15251",
+                        "key": "databaseVersion",
+                        "value": "003",
+                        "type": "core",
+                        "created_at": 1448333095786,
+                        "created_by": 1,
+                        "updated_at": 1448333095786,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 2,
+                        "uuid": "6a81b7fc-dae0-4bb5-ae43-e5b980b481a3",
+                        "key": "dbHash",
+                        "value": "7d25438c-0cce-4abd-8d58-f14eaea401f8",
+                        "type": "core",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1448333097462,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 3,
+                        "uuid": "d9260903-4237-42c7-aa7c-5b949e2368ee",
+                        "key": "nextUpdateCheck",
+                        "value": "1487879386",
+                        "type": "core",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1487792986408,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 4,
+                        "uuid": "30c0c675-9b6f-4c35-a7db-c7b3dbf48228",
+                        "key": "displayUpdateNotification",
+                        "value": "0.11.0",
+                        "type": "core",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1473961997875,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 5,
+                        "uuid": "1e3ec193-4456-42e1-bd70-693b62b25e0f",
+                        "key": "title",
+                        "value": "Garth Blog",
+                        "type": "blog",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1487794580803,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 6,
+                        "uuid": "bc7833db-367c-484e-a738-580e9749d917",
+                        "key": "description",
+                        "value": "Join the Garth Side.\n\nThis blog is mostly experiences about .NET and Dynamics CRM.  I try to only write about something I have not found elsewhere.",
+                        "type": "blog",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1487794580803,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 7,
+                        "uuid": "d0917277-c191-47b6-bc55-8bed640dba59",
+                        "key": "email",
+                        "value": "garth.fritz@gmail.com",
+                        "type": "blog",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1487794580803,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 8,
+                        "uuid": "e3910b88-e7cf-4f3f-a5dc-ffb5a8f0e828",
+                        "key": "logo",
+                        "value": "",
+                        "type": "blog",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1487794580803,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 9,
+                        "uuid": "b562ce94-e2ad-4101-979f-aadc3d2b55e0",
+                        "key": "cover",
+                        "value": "",
+                        "type": "blog",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1487794580819,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 10,
+                        "uuid": "78a20169-220b-4ebe-b8a5-e1ddfbb651f4",
+                        "key": "defaultLang",
+                        "value": "en_US",
+                        "type": "blog",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1487794580819,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 11,
+                        "uuid": "81d23498-a64d-4148-99b3-e8e45d86dd81",
+                        "key": "postsPerPage",
+                        "value": "5",
+                        "type": "blog",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1487794580819,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 12,
+                        "uuid": "5515d0af-a698-423d-b7ec-2e673f2c4764",
+                        "key": "forceI18n",
+                        "value": "true",
+                        "type": "blog",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1487794580819,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 13,
+                        "uuid": "11398f31-ae82-43ff-a71a-15379e2427ec",
+                        "key": "permalinks",
+                        "value": "/:slug/",
+                        "type": "blog",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1487794580819,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 14,
+                        "uuid": "150bb1ce-59cb-4183-8068-fb52fda37d86",
+                        "key": "activeApps",
+                        "value": "[]",
+                        "type": "app",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1448333095881,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 15,
+                        "uuid": "2f839026-6107-4ea1-ab8c-30f31b6d8dca",
+                        "key": "installedApps",
+                        "value": "[]",
+                        "type": "app",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1487811852725,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 16,
+                        "uuid": "b79b40a7-d14d-4abd-b7c7-12a8eb8fe80c",
+                        "key": "activeTheme",
+                        "value": "casper",
+                        "type": "theme",
+                        "created_at": 1448333095881,
+                        "created_by": 1,
+                        "updated_at": 1487794580834,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 17,
+                        "uuid": "1a963a45-513f-410d-8cf4-07c19121361d",
+                        "key": "ghost_head",
+                        "value": "",
+                        "type": "blog",
+                        "created_at": 1487811852312,
+                        "created_by": 1,
+                        "updated_at": 1487811852312,
+                        "updated_by": 1
+                    },
+                    {
+                        "id": 18,
+                        "uuid": "6349d34a-3567-471b-b784-7bc0d1aa3736",
+                        "key": "ghost_foot",
+                        "value": "",
+                        "type": "blog",
+                        "created_at": 1487811852312,
+                        "created_by": 1,
+                        "updated_at": 1487811852312,
+                        "updated_by": 1
+                    }
+                ],
+                "tags": [
+                    {
+                        "id": 1,
+                        "uuid": "09a66f87-4e0e-4ef4-877e-8ec1b4dabc98",
+                        "name": "Getting Started",
+                        "slug": "getting-started",
+                        "description": null,
+                        "image": null,
+                        "hidden": 0,
+                        "parent_id": null,
+                        "meta_title": null,
+                        "meta_description": null,
+                        "created_at": 1448333085286,
+                        "created_by": 1,
+                        "updated_at": 1448333085286,
+                        "updated_by": 1
+                    }
+                ],
+                "posts_tags": [
+                    {
+                        "id": 3,
+                        "post_id": 1,
+                        "tag_id": 1
+                    }
+                ],
+                "apps": [],
+                "app_settings": [],
+                "app_fields": []
+            }
+        }
+    ]
+}
